@@ -11,7 +11,7 @@ Your project’s MVP scope has been translated into a PRD and is now ready to mo
 
 ![Alt Text](https://video.udacity-data.com/topher/2019/October/5db9bd20_screen-shot-2019-10-30-at-12.40.47-pm/screen-shot-2019-10-30-at-12.40.47-pm.png)
 
-As part of the project, you will live through various scenarios that a PM typically faces or is expected to carry out during the development phase:
+As part of the project, we will live through various scenarios that a PM/PO typically faces or is expected to carry out during the development phase:
 
 * Create a project blueprint that can be used by either you or the involved stakeholders to understand their role, task and targeted milestone.
 
