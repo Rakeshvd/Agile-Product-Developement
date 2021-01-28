@@ -20,3 +20,5 @@ As part of the project, you will live through various scenarios that a PM typica
 * Respond to different scenarios that may require you to reprioritize the sprint backlog or manage expectations with stakeholders accordingly.
 
 * Apply your learnings from the course to understand the API documentation and use this information to engage with the scrum team accordingly.
+
+*Attached pdf fill contain the complete details of this project*
