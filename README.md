@@ -1,4 +1,4 @@
-# Agile Product Developement
+# Agile Product Development
 
 This project explores steps to follow and manage , handle potentially difficult situations and sprint reprioritization in a agile development for product.
 
